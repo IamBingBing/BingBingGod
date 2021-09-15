@@ -1,0 +1,13 @@
+name: BingBingVillagers
+author: "bingbing"
+version: "1.0.0_BETA"
+api: [1.0.0, 2.0.0, 3.0.0-ALPHA10, 3.0.0-Alpha11]
+main: bingbing\God
+
+commands:
+ 연합:
+  default: true
+ 전쟁:
+  default: OP
+ 야간투시:
+  default: true
